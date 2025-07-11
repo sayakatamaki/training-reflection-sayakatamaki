@@ -9,6 +9,7 @@
 }
 
 .footer {
-    height: 160px;
+    padding: 56px 32px;
     background-color: #333333;
+    color: #ffffff;
 }
